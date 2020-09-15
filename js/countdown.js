@@ -39,4 +39,4 @@ const countdown = (deadline, elem, d, h, m, s, finalMessage) => {
 };
 
 
-countdown('Sep 9 2020 13:00:00 GMT-0400', 'clock', 'dias', 'horas', 'minutos', 'segundos', 'El webinar está en curso');
+countdown('Oct 1 2020 13:00:00 GMT-0400', 'clock', 'dias', 'horas', 'minutos', 'segundos', 'El webinar está en curso');
